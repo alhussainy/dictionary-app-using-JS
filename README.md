@@ -8,8 +8,6 @@ Dictionary app is developed using HTML5, Sass, Vanilla JavaScript and by Webpack
 - [Usage](#Usage)
 - [Features](#Features)
 - [Technologies](#Technologies)
-- [Data](#Data)
-- [API](#API)
 
 ## Installation
 
@@ -20,7 +18,7 @@ Dictionary app is developed using HTML5, Sass, Vanilla JavaScript and by Webpack
 
 ## Usage
 
-The final production will be generated in'/dist' dirctory after running `npm run build-prod`;
+The final production will be generated in'/docs' dirctory after running `npm run build-prod`;
 For developement after running `npm run build-dev`, you can explore the project on `localhost:8080`.(workbox is used so you can see a cached version of the applicaion).
 
 ## Features
